@@ -1,0 +1,27 @@
+{
+  "name": "deanglify",
+  "version": "0.0.1",
+  "description": "Convert between British and American spellings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson428/british-american-conversion.git"
+  },
+  "keywords": [
+    "British",
+    "American",
+    "English"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilson428/british-american-conversion/issues"
+  },
+  "homepage": "https://github.com/wilson428/british-american-conversion#readme"
+}
